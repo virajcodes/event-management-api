@@ -6,7 +6,7 @@ This project is a Event Management REST API using Node.js, Express, and PostgreS
 
 1. **Clone the repository:**
 
-   git clone https://github.com/yourusername/event-management-api.git
+   git clone https://github.com/virajcodes/event-management-api.git
    cd event-management-api
   
 
