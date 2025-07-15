@@ -15,7 +15,7 @@ This project is a Event Management REST API using Node.js, Express, and PostgreS
    npm install
 
 3. Create the PostgreSQL database:
-
+   run queries from database/event_db.sql file on your pgadmin
 
 5. **Create a `.env` file:**
 
